@@ -6,7 +6,6 @@ Olá, comecei meus estudos no mundo da programação recentemente, e estudo para
 - Me interesso pela área de frontend, e também, pela área de games.
 
 ## Conecte-se comigo
-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabriellvz)
 
 - [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gabrielalvescruz0@gmail.com)
 
